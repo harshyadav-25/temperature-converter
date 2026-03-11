@@ -2,7 +2,7 @@
 
 A clean, beautiful, and responsive web application to seamlessly convert temperatures between Celsius and Fahrenheit.
 
-![Temperature Converter](https://via.placeholder.com/800x400.png?text=Temperature+Converter+Preview)
+![Temperature Converter Preview](screenshot.png)
 
 ## ✨ Features
 
